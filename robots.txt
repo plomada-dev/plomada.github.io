@@ -1,0 +1,5 @@
+# Prototipo en revisión. Al lanzar, reemplazar por:
+# User-agent: *
+# Allow: /
+User-agent: *
+Disallow: /
